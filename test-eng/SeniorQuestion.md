@@ -1,4 +1,4 @@
-# QA Challenge
+# Test Engineering Challenge
 
 The following question should be asked for a Senior QA role.
 

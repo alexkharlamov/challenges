@@ -1,4 +1,4 @@
-# QA Challenge
+# Test Engineering Challenge
 
 1.  UI automation test
 Given the following site: https://www.saucedemo.com/
